@@ -6,7 +6,7 @@
 
 # Things to be Considered
 
-1. Random Seed
+1. Random Seed (https://discuss.huggingface.co/t/fixing-the-random-seed-in-the-trainer-does-not-produce-the-same-results-across-runs/3442)
 2. Training Steps
 3. train_batch_size
 
