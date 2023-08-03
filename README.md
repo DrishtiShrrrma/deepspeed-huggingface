@@ -6,6 +6,9 @@
 
 Reference: https://discuss.huggingface.co/t/deepspeed-integration-with-trainer-in-colab-crashing-typeerror-object-init-takes-exactly-one-argument-the-instance-to-initialize/28255
 
+![image](https://github.com/DrishtiShrrrma/deepspeed-huggingface/assets/129742046/431c3494-2122-4d5a-9d1e-6ee49cb6c214)
+
+
 # Things to be Considered
 
 1. Random Seed (https://discuss.huggingface.co/t/fixing-the-random-seed-in-the-trainer-does-not-produce-the-same-results-across-runs/3442)
