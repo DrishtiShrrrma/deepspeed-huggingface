@@ -4,7 +4,11 @@
 2. Whisper
 3. Wav2Vec2
 
-Reference: https://discuss.huggingface.co/t/deepspeed-integration-with-trainer-in-colab-crashing-typeerror-object-init-takes-exactly-one-argument-the-instance-to-initialize/28255
+Reference: 
+
+1. https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/deepspeed#deployment-in-notebooks
+
+2. https://discuss.huggingface.co/t/deepspeed-integration-with-trainer-in-colab-crashing-typeerror-object-init-takes-exactly-one-argument-the-instance-to-initialize/28255
 
 ![image](https://github.com/DrishtiShrrrma/deepspeed-huggingface/assets/129742046/431c3494-2122-4d5a-9d1e-6ee49cb6c214)
 
