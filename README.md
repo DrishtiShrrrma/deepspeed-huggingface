@@ -4,7 +4,7 @@
 2. https://discord.com/channels/879548962464493619/1052622386064793660/1053321191072464896
 3. https://discord.com/channels/879548962464493619/1052622386064793660/1053323395107913738
 
-![image](https://github.com/DrishtiShrrrma/deepspeed-huggingface/assets/129742046/d5a63571-303f-4b4d-b744-8a20cfd5ed4d)
+
 
 
 
@@ -28,6 +28,8 @@ Reference:
 1. Random Seed (https://discuss.huggingface.co/t/fixing-the-random-seed-in-the-trainer-does-not-produce-the-same-results-across-runs/3442)
 2. Training Steps
 3. train_batch_size
+
+![image](https://github.com/DrishtiShrrrma/deepspeed-huggingface/assets/129742046/d5a63571-303f-4b4d-b744-8a20cfd5ed4d)
 
 # Constraints to be Assessed
 
