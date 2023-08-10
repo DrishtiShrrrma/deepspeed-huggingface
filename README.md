@@ -1,3 +1,7 @@
+# Reference
+
+https://discord.com/channels/879548962464493619/1050420105613430794/1054800474349514753
+
 # Models to be Assessed
 
 1. SpeechT5
