@@ -3,6 +3,7 @@
 1. https://discord.com/channels/879548962464493619/1050420105613430794/1054800474349514753
 2. https://discord.com/channels/879548962464493619/1052622386064793660/1053321191072464896
 3. https://discord.com/channels/879548962464493619/1052622386064793660/1053323395107913738
+4. https://github.com/huggingface/community-events/tree/main/whisper-fine-tuning-event#deepspeed
 
 
 
