@@ -3,7 +3,9 @@
 1. https://discord.com/channels/879548962464493619/1050420105613430794/1054800474349514753
 2. https://discord.com/channels/879548962464493619/1052622386064793660/1053321191072464896
 3. https://discord.com/channels/879548962464493619/1052622386064793660/1053323395107913738
-4. https://github.com/huggingface/community-events/tree/main/whisper-fine-tuning-event#deepspeed
+4. https://github.com/huggingface/community-events/tree/main/whisper-fine-tuning-event#deepspee
+5. https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/deepspeed#deployment-in-notebooks
+6. https://discuss.huggingface.co/t/deepspeed-integration-with-trainer-in-colab-crashing-typeerror-object-init-takes-exactly-one-argument-the-instance-to-initialize/28255
 
 
 
@@ -14,12 +16,6 @@
 1. SpeechT5
 2. Whisper
 3. Wav2Vec2
-
-Reference: 
-
-1. https://huggingface.co/docs/transformers/v4.19.2/en/main_classes/deepspeed#deployment-in-notebooks
-
-2. https://discuss.huggingface.co/t/deepspeed-integration-with-trainer-in-colab-crashing-typeerror-object-init-takes-exactly-one-argument-the-instance-to-initialize/28255
 
 ![image](https://github.com/DrishtiShrrrma/deepspeed-huggingface/assets/129742046/431c3494-2122-4d5a-9d1e-6ee49cb6c214)
 
